@@ -1,0 +1,21 @@
+numpy==1.23.5
+pandas==1.5.1
+SciKit learn (SK Learn)
+Matplotlib
+Pyplot
+Seaborn
+
+certifi==2022.9.24
+et-xmlfile==1.1.0
+openpyxl==3.0.10
+pandoc==2.2
+pip==22.2.2
+plumbum==1.8.0
+ply==3.11
+python-dateutil==2.8.2
+pytz==2022.6
+pywin32==305
+setuptools==65.5.0
+six==1.16.0
+wheel==0.37.1
+wincertstore==0.2

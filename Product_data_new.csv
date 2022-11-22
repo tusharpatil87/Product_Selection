@@ -1,0 +1,501 @@
+Location,State,Region,Income,Construction,BusinessType,Earthquake,Flood,Product
+Urban,NY,East,"16,17,630",Frame,Retail,N,N,C4
+Urban,NY,East,"86,78,500",Fire Resist,Apartment,Y,Y,C1
+Rural,WI,Midwest,"20,52,660",Frame,Farming,N,N,A6
+Urban,NY,East,"1,75,80,000",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"19,25,000",Masonry,Hospitality,N,N,C1
+Urban,IL,Midwest,"1,29,34,500",Frame,Apartment,Y,Y,D2
+Urban,WI,Midwest,"9,28,300",Masonry,Office Bldg,N,N,D3
+Rural,NY,East,"22,19,900",Frame,Farming,N,N,A2
+Urban,NY,East,"1,41,00,000",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"47,62,808",Masonry,Other,Y,Y,C1
+Urban,NY,East,"1,39,25,190",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"63,50,000",Frame,Apartment,Y,Y,C6
+Urban,WI,Midwest,"40,36,000",Masonry,Medical,Y,Y,D5
+Urban,NJ,East,"4,72,800",Masonry,Retail,Y,Y,C1
+Urban,WI,Midwest,"1,17,10,880",Masonry,Apartment,Y,Y,D5
+Urban,NY,East,"13,70,300",Frame,Apartment,Y,Y,C6
+Rural,WI,Midwest,"14,32,835",Frame,Farming,N,N,A6
+Urban,NY,East,"82,000",Masonry,Organization,Y,Y,C1
+Urban,NY,East,"1,92,000",Masonry,Retail,N,N,C1
+Urban,NY,East,"49,50,000",Frame,Office Bldg,Y,Y,C7
+Urban,VT,Northeast,"24,32,875",Fire Resist,Apartment,N,N,E1
+Urban,OH,Central,"15,29,600",Masonry,Apartment,N,N,B2
+Urban,NY,East,"76,77,000",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"1,37,50,000",Frame,Apartment,Y,Y,C6
+Rural,NY,East,"25,29,400",Frame,Farming,N,N,A2
+Urban,NJ,East,"23,28,650",Frame,Organization,N,N,C4
+Urban,WI,Midwest,"43,80,200",Masonry,Office Bldg,Y,Y,D5
+Urban,NJ,East,"28,15,000",Metal Clad,Apartment,Y,Y,C2
+Urban,NY,East,"11,77,700",Frame,Hospitality,N,N,C4
+Urban,VT,Northeast,"72,03,500",Frame,Office Bldg,Y,Y,E2
+Urban,WI,Midwest,"5,34,10,614",Frame,Construction,Y,Y,D2
+Urban,NJ,East,"31,89,300",Masonry,Service,Y,Y,C1
+Rural,IL,Midwest,"31,45,700",Frame,Education,N,N,A6
+Urban,WI,Midwest,"14,51,100",Frame,Recreation,N,N,D2
+Urban,OH,Central,"17,87,900",Frame,Office Bldg,N,N,B1
+Urban,NY,East,"1,87,77,355",Frame,Apartment,Y,Y,C6
+Urban,WI,Midwest,"88,00,000",Fire Resist,Office Bldg,Y,Y,D1
+Urban,NY,East,"11,23,000",Frame,Office Bldg,Y,Y,C7
+Rural,NY,East,"21,45,420",Frame,Farming,N,N,A2
+Urban,NY,East,"1,89,33,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"2,14,00,000",Fire Resist,Apartment,Y,Y,C1
+Urban,NY,East,"37,54,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"96,50,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"95,03,000",Frame,Office Bldg,Y,Y,C7
+Urban,NJ,East,"16,88,300",Frame,Hospitality,N,Y,C4
+Urban,WI,Midwest,"1,78,56,705",Masonry,Apartment,Y,Y,D5
+Urban,NY,East,"75,77,000",Frame,Apartment,Y,Y,C6
+Urban,WI,Midwest,"19,90,915",Masonry,Office Bldg,N,N,D3
+Urban,NJ,East,"12,45,000",Frame,Hospitality,Y,Y,C7
+Urban,IL,Midwest,"18,95,000",Masonry,Office Bldg,N,N,D3
+Urban,WI,Midwest,"50,00,368",Masonry,Manufacturing,N,N,D3
+Urban,NY,East,"83,97,700",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"3,63,56,000",Fire Resist,Apartment,Y,Y,C1
+Urban,NJ,East,"1,69,32,600",Fire Resist,Apartment,Y,Y,C1
+Urban,OH,Central,"18,49,000",Metal Clad,Retail,N,N,B3
+Urban,OH,Central,"2,18,490",Frame,Apartment,N,N,B1
+Urban,NJ,East,"30,52,600",Frame,Apartment,Y,N,C3
+Urban,WI,Midwest,"81,26,500",Masonry,Organization,Y,Y,D5
+Urban,NY,East,"1,14,00,000",Masonry,Apartment,Y,Y,C1
+Urban,NJ,East,"59,18,400",Frame,Farming,Y,N,C3
+Rural,NY,East,"25,50,750",Frame,Farming,N,N,A2
+Urban,NY,East,"1,40,000",Masonry,Retail,N,N,C1
+Urban,NY,East,"7,25,000",Masonry,Service,N,N,C1
+Urban,NY,East,"1,00,98,900",Frame,Office Bldg,Y,Y,C7
+Rural,NY,East,"29,37,200",Frame,Farming,N,N,A2
+Urban,NJ,East,"36,44,800",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"1,38,82,500",Frame,Apartment,Y,Y,C6
+Rural,NY,East,"20,50,000",Frame,Farming,N,N,A2
+Rural,NY,East,"38,05,200",Metal Clad,Farming,N,N,A6
+Rural,NY,East,"14,17,800",Frame,Organization,N,N,A3
+Rural,WI,Midwest,"56,13,900",Masonry,Farming,N,N,A7
+Urban,NJ,East,"24,71,100",Frame,Farming,N,N,C4
+Rural,VT,Northeast,"29,85,950",Frame,Farming,N,N,A9
+Urban,WI,Midwest,"90,62,700",Fire Resist,Hospitality,N,N,D1
+Urban,NY,East,"73,50,000",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"13,00,900",Masonry,Office Bldg,N,N,C1
+Urban,NY,East,"1,27,50,000",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"75,85,000",Fire Resist,Office Bldg,Y,Y,C1
+Urban,NY,East,"94,93,313",Masonry,Apartment,Y,Y,C1
+Urban,NY,East,"1,03,02,000",Fire Resist,Office Bldg,Y,Y,C1
+Urban,NH,Northeast,"25,00,000",Metal Clad,Manufacturing,N,N,E1
+Urban,WI,Midwest,"48,33,900",Masonry,Office Bldg,N,N,D3
+Urban,NY,East,"20,29,500",Metal Clad,Apartment,Y,Y,C2
+Rural,NY,East,"22,33,200",Frame,Farming,N,N,A2
+Urban,NY,East,"20,01,250",Frame,Office Bldg,Y,Y,C7
+Rural,NY,East,"14,98,850",Metal Clad,Farming,N,N,A6
+Urban,NJ,East,"4,05,556",Frame,Apartment,Y,N,C3
+Urban,NY,East,"13,11,220",Frame,Apartment,N,N,C4
+Urban,NY,East,"17,69,785",Frame,Hospitality,Y,Y,C7
+Urban,OH,Central,"53,77,000",Frame,Apartment,Y,Y,B1
+Rural,NY,East,"15,99,860",Frame,Farming,N,N,A2
+Urban,NY,East,"1,07,80,450",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"38,39,200",Masonry,Apartment,N,N,C1
+Urban,NJ,East,"2,96,000",Frame,Apartment,N,N,C4
+Rural,WI,Midwest,"27,07,630",Frame,Farming,N,N,A6
+Urban,NJ,East,"22,49,500",Frame,Farming,N,N,C4
+Urban,NY,East,"76,11,000",Masonry,Office Bldg,Y,Y,C1
+Rural,WI,Midwest,"11,52,600",Frame,Farming,N,N,A6
+Urban,NJ,East,"91,15,500",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"16,00,000",Masonry,Hospitality,Y,Y,C1
+Urban,NJ,East,"25,75,965",Frame,Farming,Y,N,C3
+Urban,NY,East,"2,20,000",Metal Clad,Hospitality,N,N,C1
+Urban,NY,East,"18,00,000",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"1,69,98,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"1,44,50,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"28,35,800",Metal Clad,Manufacturing,N,N,C1
+Urban,WI,Midwest,"22,80,000",Frame,Hospitality,Y,Y,D2
+Urban,NJ,East,"39,60,000",Frame,Office Bldg,Y,Y,C7
+Urban,VT,Northeast,"52,72,975",Frame,Apartment,Y,Y,E2
+Urban,VT,Northeast,"63,54,220",Frame,Apartment,Y,Y,E2
+Urban,NY,East,"88,92,200",Masonry,Apartment,Y,Y,C1
+Urban,NJ,East,"46,51,680",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"59,90,067",Frame,Apartment,N,N,C4
+Rural,NY,East,"41,02,500",Frame,Farming,N,N,A2
+Urban,NY,East,"34,00,000",Frame,Construction,Y,Y,C7
+Urban,NY,East,"99,73,900",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"1,54,80,000",Frame,Office Bldg,Y,Y,C7
+Rural,NY,East,"24,46,600",Frame,Farming,N,N,A2
+Urban,VT,Northeast,"88,61,500",Frame,Office Bldg,N,N,E1
+Urban,NH,Northeast,"97,920",Frame,Office Bldg,Y,Y,E2
+Urban,NY,East,"51,50,000",Frame,Apartment,Y,Y,C6
+Rural,WI,Midwest,"14,51,662",Masonry,Farming,N,N,A7
+Urban,NJ,East,"17,61,960",Masonry,Office Bldg,N,N,C1
+Rural,NY,East,"16,49,105",Frame,Farming,N,N,A2
+Urban,NY,East,"23,29,500",Frame,Apartment,N,N,C4
+Urban,NY,East,"7,21,500",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"24,55,000",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"33,63,463",Frame,Farming,Y,N,C3
+Rural,WI,Midwest,"15,68,100",Frame,Farming,N,N,A6
+Urban,WI,Midwest,"20,63,960",Masonry,Organization,N,N,D3
+Urban,VT,Northeast,"18,06,500",Frame,Apartment,N,Y,E6
+Urban,NY,East,"4,98,37,500",Fire Resist,Apartment,Y,Y,C1
+Rural,NY,East,"22,44,800",Frame,Farming,N,N,A2
+Urban,NJ,East,"1,03,46,950",Frame,Office Bldg,N,Y,C4
+Urban,NJ,East,"81,50,000",Frame,Apartment,N,Y,C4
+Urban,NY,East,"16,97,200",Frame,Other,N,N,C4
+Urban,VT,Northeast,"33,34,353",Metal Clad,Farming,Y,Y,E2
+Rural,WI,Midwest,"60,20,060",Masonry,Farming,N,N,A7
+Urban,NY,East,"13,81,370",Frame,Organization,N,N,C4
+Urban,NY,East,"24,42,400",Frame,Retail,N,N,C4
+Urban,NJ,East,"41,93,603",Frame,Farming,Y,N,C3
+Rural,WI,Midwest,"37,25,520",Masonry,Farming,N,N,A7
+Urban,NY,East,"73,94,300",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"24,02,500",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"16,93,000",Frame,Farming,Y,N,C3
+Urban,NJ,East,"91,48,076",Frame,Manufacturing,Y,Y,C7
+Urban,NJ,East,"39,50,000",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"1,41,83,900",Frame,Apartment,Y,Y,C6
+Urban,WI,Midwest,"3,52,45,000",Masonry,Apartment,Y,Y,D5
+Urban,WI,Midwest,"2,94,700",Masonry,Office Bldg,N,N,D3
+Urban,OH,Central,"44,88,000",Frame,Apartment,N,N,B1
+Urban,NJ,East,"15,95,500",Frame,Office Bldg,Y,Y,C7
+Urban,MI,Central,"3,94,220",Frame,Retail,N,N,B1
+Urban,WI,Midwest,"7,23,900",Fire Resist,Office Bldg,Y,Y,D1
+Rural,NY,East,"20,06,700",Frame,Farming,N,N,A2
+Urban,WI,Midwest,"9,79,572",Frame,Retail,N,N,D2
+Urban,NY,East,"50,86,300",Frame,Office Bldg,Y,Y,C7
+Rural,NY,East,"43,53,100",Frame,Farming,N,N,A2
+Urban,NY,East,"20,56,700",Frame,Other,Y,Y,C7
+Urban,IL,Midwest,"48,86,675",Masonry,Apartment,N,N,D3
+Rural,NY,East,"19,73,200",Frame,Farming,N,N,A2
+Urban,NY,East,"41,56,000",Masonry,Hospitality,Y,Y,C1
+Urban,NJ,East,"10,45,000",Frame,Apartment,Y,N,C3
+Urban,NY,East,"8,00,000",Frame,Construction,N,N,C4
+Urban,NJ,East,"44,83,000",Frame,Office Bldg,Y,Y,C7
+Rural,NY,East,"30,74,775",Frame,Farming,N,N,A2
+Urban,MN,Midwest,"18,34,200",Frame,Hospitality,Y,Y,D2
+Urban,NY,East,"1,33,70,000",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"1,44,74,600",Fire Resist,Apartment,Y,Y,C1
+Rural,WI,Midwest,"21,03,390",Masonry,Farming,N,N,A7
+Urban,WI,Midwest,"77,50,100",Masonry,Other,N,N,D3
+Urban,NY,East,"92,50,000",Frame,Office Bldg,Y,Y,C7
+Rural,WI,Midwest,"28,67,650",Frame,Farming,N,N,A6
+Rural,WI,Midwest,"27,98,650",Masonry,Farming,N,N,A7
+Urban,NY,East,"24,68,300",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"2,70,000",Masonry,Retail,N,N,C1
+Urban,NJ,East,"13,74,100",Masonry,Office Bldg,Y,Y,C1
+Urban,WI,Midwest,"40,77,100",Masonry,Apartment,Y,Y,D5
+Rural,NY,East,"16,51,300",Frame,Farming,N,N,A2
+Urban,VT,Northeast,"27,85,000",Frame,Organization,N,N,E1
+Urban,WI,Midwest,"30,86,048",Frame,Hospitality,Y,Y,D2
+Urban,NY,East,"19,74,300",Masonry,Organization,Y,Y,C1
+Rural,NY,East,"36,60,780",Frame,Farming,N,N,A2
+Urban,NY,East,"25,50,000",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"27,30,000",Metal Clad,Hospitality,Y,Y,C2
+Urban,NY,East,"9,63,100",Metal Clad,Apartment,Y,Y,C2
+Rural,NY,East,"14,19,500",Frame,Farming,N,N,A2
+Urban,NY,East,"27,58,482",Fire Resist,Apartment,Y,Y,C1
+Urban,OH,Central,"6,61,900",Frame,Apartment,N,N,B1
+Urban,NY,East,"1,94,51,600",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"12,92,345",Frame,Office Bldg,N,N,C4
+Urban,VT,Northeast,"97,02,682",Frame,Apartment,N,N,E1
+Urban,NJ,East,"1,01,98,700",Fire Resist,Office Bldg,Y,Y,C1
+Urban,MI,Central,"7,14,000",Frame,Apartment,N,N,B1
+Rural,VT,Northeast,"20,99,525",Frame,Farming,N,N,A9
+Urban,NJ,East,"1,62,00,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"25,70,600",Masonry,Office Bldg,Y,Y,C1
+Urban,NY,East,"12,80,000",Fire Resist,Hospitality,Y,Y,C1
+Urban,NY,East,"2,05,000",Fire Resist,Retail,N,N,C1
+Urban,OH,Central,"17,60,800",Frame,Apartment,N,N,B1
+Urban,NJ,East,"28,12,559",Frame,Farming,N,N,C4
+Rural,NY,East,"39,43,000",Frame,Farming,N,N,A2
+Urban,NY,East,"31,07,790",Masonry,Office Bldg,N,Y,C1
+Urban,NY,East,"94,48,200",Frame,Apartment,Y,Y,C6
+Rural,MI,Central,"1,06,17,800",Frame,Manufacturing,Y,Y,A1
+Urban,NY,East,"8,47,300",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"4,00,000",Masonry,Office Bldg,N,Y,C1
+Urban,NY,East,"3,63,200",Frame,Office Bldg,N,Y,C4
+Urban,IL,Midwest,"29,22,600",Masonry,Apartment,Y,Y,D5
+Urban,WI,Midwest,"5,00,500",Masonry,Apartment,Y,Y,D5
+Rural,NY,East,"19,27,450",Frame,Farming,N,N,A2
+Rural,NY,East,"26,60,299",Frame,Farming,N,N,A2
+Urban,WI,Midwest,"39,80,100",Masonry,Apartment,N,N,D3
+Urban,WI,Midwest,"29,87,000",Masonry,Apartment,Y,Y,D5
+Urban,VT,Northeast,"1,64,29,900",Frame,Apartment,Y,Y,E2
+Urban,NY,East,"1,69,50,000",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"3,69,09,180",Metal Clad,Manufacturing,Y,Y,C2
+Urban,NY,East,"96,00,000",Frame,Office Bldg,Y,N,C3
+Urban,NY,East,"2,20,50,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"38,50,000",Frame,Construction,N,Y,C4
+Urban,VT,Northeast,"1,35,14,081",Frame,Recreation,Y,Y,E2
+Urban,NY,East,"20,00,000",Frame,Hospitality,Y,Y,C7
+Rural,WI,Midwest,"16,58,765",Masonry,Farming,N,N,A7
+Urban,OH,Central,"82,72,853",Masonry,Apartment,N,N,B2
+Urban,NY,East,"67,50,000",Frame,Apartment,Y,Y,C6
+Urban,IL,Midwest,"78,28,000",Masonry,Office Bldg,N,Y,D3
+Urban,NJ,East,"3,73,500",Frame,Office Bldg,N,N,C4
+Urban,NY,East,"1,70,50,000",Frame,Office Bldg,Y,Y,C7
+Rural,NY,East,"19,58,400",Frame,Farming,N,N,A2
+Urban,NY,East,"1,77,46,832",Masonry,Apartment,Y,Y,C1
+Urban,WI,Midwest,"60,40,300",Masonry,Apartment,Y,N,D4
+Rural,WI,Midwest,"22,24,219",Frame,Farming,N,N,A6
+Urban,NY,East,"8,47,300",Frame,Office Bldg,Y,Y,C7
+Urban,WI,Midwest,"7,82,428",Masonry,Apartment,N,N,D3
+Urban,NJ,East,"2,99,400",Frame,Office Bldg,Y,N,C3
+Urban,WI,Midwest,"13,97,100",Masonry,Office Bldg,Y,Y,D5
+Urban,NY,East,"17,14,835",Frame,Apartment,N,N,C4
+Urban,MI,Central,"19,91,600",Frame,Organization,N,N,B1
+Urban,WI,Midwest,"37,01,573",Frame,Farming,N,N,D2
+Urban,NJ,East,"54,60,000",Frame,Apartment,Y,Y,C6
+Rural,NY,East,"31,36,600",Frame,Farming,N,N,A2
+Urban,NY,East,"17,80,000",Frame,Hospitality,Y,Y,C7
+Urban,NY,East,"2,30,000",Frame,Manufacturing,Y,Y,C7
+Urban,NJ,East,"14,63,800",Frame,Farming,Y,N,C3
+Rural,VT,Northeast,"35,79,800",Metal Clad,Farming,N,N,A9
+Urban,NY,East,"12,75,600",Frame,Apartment,N,Y,C4
+Rural,NY,East,"57,81,710",Frame,Farming,N,N,A2
+Urban,NH,Northeast,"3,20,000",Masonry,Retail,N,N,E1
+Urban,NY,East,"13,79,400",Frame,Apartment,N,N,C4
+Rural,WI,Midwest,"63,85,452",Frame,Farming,Y,N,A6
+Urban,WI,Midwest,"46,71,000",Masonry,Apartment,Y,Y,D5
+Rural,NY,East,"1,99,000",Frame,Retail,N,N,A4
+Urban,WI,Midwest,"21,00,000",Frame,Apartment,N,N,D2
+Urban,NY,East,"18,75,000",Masonry,Hospitality,Y,Y,C1
+Rural,WI,Midwest,"22,01,500",Frame,Farming,N,N,A6
+Urban,NY,East,"19,86,100",Frame,Apartment,N,N,C4
+Urban,WI,Midwest,"1,05,000",Masonry,Other,N,N,D3
+Urban,NJ,East,"37,00,000",Masonry,Office Bldg,Y,Y,C1
+Urban,IL,Midwest,"2,91,28,000",Fire Resist,Apartment,Y,Y,D1
+Urban,VT,Northeast,"1,07,00,000",Frame,Hospitality,Y,Y,E2
+Rural,WI,Midwest,"17,78,600",Frame,Farming,N,N,A6
+Rural,NY,East,"38,66,420",Frame,Farming,N,N,A2
+Urban,NY,East,"10,37,500",Frame,Manufacturing,N,N,C4
+Rural,NY,East,"24,80,800",Frame,Farming,N,N,A2
+Urban,WI,Midwest,"5,78,400",Masonry,Office Bldg,N,N,D3
+Urban,NY,East,"31,78,400",Frame,Office Bldg,Y,Y,C7
+Urban,ME,Northeast,"71,50,000",Masonry,Apartment,Y,Y,E2
+Urban,NJ,East,"16,04,800",Frame,Hospitality,Y,Y,C7
+Urban,NY,East,"1,82,75,350",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"7,10,400",Masonry,Office Bldg,N,N,C1
+Urban,WI,Midwest,"22,05,950",Masonry,Apartment,N,N,D3
+Urban,WI,Midwest,"81,66,050",Fire Resist,Apartment,N,Y,D1
+Urban,WI,Midwest,"32,22,081",Masonry,Farming,N,N,D3
+Urban,NJ,East,"3,71,600",Frame,Hospitality,Y,N,C3
+Urban,WI,Midwest,"13,65,000",Masonry,Hospitality,Y,Y,D5
+Urban,NY,East,"2,40,00,000",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"77,00,000",Fire Resist,Construction,Y,Y,C1
+Urban,IL,Midwest,"45,78,800",Frame,Farming,N,N,D2
+Rural,VT,Northeast,"24,77,200",Frame,Farming,N,N,A9
+Urban,NJ,East,"34,32,600",Frame,Office Bldg,Y,Y,C7
+Rural,IL,Midwest,"1,72,100",Frame,Farming,N,N,A6
+Urban,NY,East,"1,11,47,050",Fire Resist,Apartment,Y,Y,C1
+Urban,NY,East,"20,07,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"94,04,500",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"50,56,900",Fire Resist,Apartment,Y,Y,C1
+Urban,WI,Midwest,"45,77,032",Frame,Farming,N,N,D2
+Urban,NY,East,"9,53,100",Metal Clad,Office Bldg,N,N,C1
+Rural,NY,East,"25,62,500",Fire Resist,Manufacturing,N,N,A5
+Urban,NY,East,"69,08,000",Frame,Office Bldg,Y,Y,C7
+Urban,VT,Northeast,"15,88,100",Masonry,Recreation,N,N,E1
+Urban,NY,East,"3,11,200",Frame,Apartment,N,N,C4
+Urban,NY,East,"1,48,50,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"15,57,500",Frame,Office Bldg,N,Y,C4
+Urban,NY,East,"42,67,000",Frame,Office Bldg,Y,Y,C7
+Urban,IL,Midwest,"17,02,350",Frame,Apartment,N,N,D2
+Urban,NY,East,"2,80,600",Frame,Office Bldg,N,N,C4
+Urban,WI,Midwest,"20,25,100",Masonry,Office Bldg,N,N,D3
+Urban,NY,East,"67,48,000",Frame,Apartment,Y,Y,C6
+Urban,WI,Midwest,"20,67,500",Fire Resist,Service,Y,Y,D1
+Urban,NY,East,"32,35,700",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"23,56,100",Frame,Hospitality,Y,Y,C7
+Urban,NY,East,"79,32,500",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"18,51,125",Frame,Office Bldg,N,N,C4
+Urban,NY,East,"83,45,500",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"24,00,000",Frame,Construction,Y,Y,C7
+Urban,WI,Midwest,"16,75,000",Frame,Hospitality,Y,Y,D2
+Urban,NH,Northeast,"1,45,680",Frame,Office Bldg,N,N,E1
+Urban,NY,East,"1,39,00,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"1,35,75,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"59,50,500",Metal Clad,Office Bldg,Y,Y,C2
+Urban,OH,Central,"15,69,440",Masonry,Organization,N,N,B2
+Urban,NY,East,"21,31,900",Masonry,Retail,N,N,C1
+Urban,WI,Midwest,"6,31,410",Frame,Farming,N,N,D2
+Urban,NY,East,"18,56,637",Masonry,Hospitality,Y,Y,C1
+Urban,WI,Midwest,"23,21,900",Frame,Manufacturing,N,N,D2
+Urban,NJ,East,"47,26,686",Frame,Farming,Y,N,C3
+Urban,ME,Northeast,"14,44,255",Frame,Organization,N,N,E1
+Urban,NY,East,"18,30,900",Frame,Office Bldg,N,N,C4
+Urban,VT,Northeast,"13,25,200",Frame,Organization,N,N,E1
+Urban,NY,East,"12,67,625",Frame,Office Bldg,N,N,C4
+Rural,NY,East,"34,09,000",Metal Clad,Farming,N,N,A6
+Urban,NY,East,"3,32,50,000",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"3,20,100",Frame,Apartment,N,N,C4
+Urban,WI,Midwest,"2,75,000",Masonry,Apartment,N,N,D3
+Urban,WI,Midwest,"15,19,100",Masonry,Apartment,N,N,D3
+Rural,IL,Midwest,"21,82,250",Frame,Farming,N,N,A6
+Rural,WI,Midwest,"43,28,620",Frame,Farming,N,N,A6
+Urban,NJ,East,"18,40,000",Masonry,Apartment,N,N,C1
+Urban,NY,East,"2,12,50,000",Frame,Office Bldg,Y,Y,C7
+Rural,NY,East,"25,34,633",Frame,Farming,N,N,A2
+Urban,NY,East,"24,94,300",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"25,62,500",Frame,Apartment,Y,Y,C6
+Urban,WI,Midwest,"6,85,000",Masonry,Hospitality,Y,Y,D5
+Urban,NY,East,"5,03,000",Masonry,Hospitality,N,Y,C1
+Urban,NY,East,"1,02,59,600",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"37,98,400",Metal Clad,Office Bldg,Y,Y,C2
+Urban,NJ,East,"22,69,865",Masonry,Retail,Y,Y,C1
+Urban,NY,East,"23,63,700",Frame,Farming,N,N,C4
+Urban,WI,Midwest,"19,60,200",Masonry,Farming,N,N,D3
+Urban,IL,Midwest,"1,68,33,800",Fire Resist,Apartment,Y,Y,D1
+Rural,NY,East,"41,27,900",Metal Clad,Farming,N,N,A6
+Urban,NJ,East,"27,53,500",Masonry,Office Bldg,Y,Y,C1
+Urban,NY,East,"1,05,18,041",Frame,Office Bldg,Y,Y,C7
+Urban,NJ,East,"15,54,500",Frame,Farming,N,N,C4
+Urban,NJ,East,"11,15,870",Frame,Farming,Y,N,C3
+Urban,NY,East,"1,56,25,000",Frame,Office Bldg,Y,Y,C7
+Urban,IL,Midwest,"7,87,500",Frame,Apartment,N,N,D2
+Urban,NY,East,"1,57,50,000",Masonry,Apartment,Y,Y,C1
+Urban,OH,Central,"3,20,000",Masonry,Retail,N,N,B2
+Rural,WI,Midwest,"26,11,400",Frame,Farming,N,N,A6
+Rural,NY,East,"23,98,000",Metal Clad,Farming,N,N,A6
+Urban,NJ,East,"23,29,942",Frame,Farming,Y,N,C3
+Urban,MN,Midwest,"13,05,100",Frame,Apartment,Y,Y,D2
+Rural,NY,East,"49,81,500",Frame,Farming,N,N,A2
+Urban,NY,East,"5,35,000",Fire Resist,Retail,N,N,C1
+Urban,NY,East,"1,03,97,500",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"20,03,000",Masonry,Apartment,Y,Y,C1
+Urban,NY,East,"1,08,08,800",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"19,62,400",Frame,Apartment,N,N,C4
+Urban,NJ,East,"24,23,500",Frame,Apartment,Y,Y,C6
+Rural,NY,East,"30,67,800",Frame,Farming,N,N,A2
+Urban,OH,Central,"12,02,090",Frame,Organization,N,N,B1
+Urban,NJ,East,"30,62,000",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"28,15,900",Metal Clad,Manufacturing,N,N,C1
+Urban,ME,Northeast,"7,90,000",Masonry,Apartment,N,N,E1
+Urban,NJ,East,"19,75,000",Fire Resist,Hospitality,Y,Y,C1
+Urban,WI,Midwest,"20,70,000",Masonry,Apartment,N,N,D3
+Urban,NY,East,"8,47,300",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"20,29,750",Frame,Apartment,N,N,C4
+Rural,NY,East,"26,36,313",Frame,Farming,N,N,A2
+Urban,NY,East,"20,80,000",Masonry,Hospitality,Y,Y,C1
+Urban,NJ,East,"2,05,000",Fire Resist,Retail,Y,Y,C1
+Urban,NJ,East,"19,36,200",Frame,Farming,N,N,C4
+Urban,WI,Midwest,"14,03,100",Frame,Medical,N,N,D2
+Urban,MI,Central,"3,15,000",Frame,Apartment,N,N,B1
+Urban,NY,East,"20,00,000",Masonry,Apartment,Y,Y,C1
+Urban,NY,East,"99,00,000",Frame,Apartment,Y,Y,C6
+Urban,MI,Central,"32,55,300",Frame,Hospitality,N,N,B1
+Rural,NY,East,"44,77,175",Frame,Farming,Y,N,A3
+Urban,NY,East,"23,95,000",Frame,Hospitality,N,Y,C4
+Urban,NY,East,"55,50,000",Fire Resist,Apartment,Y,Y,C1
+Urban,NY,East,"19,22,800",Metal Clad,Office Bldg,Y,Y,C2
+Urban,NJ,East,"30,28,850",Frame,Farming,Y,N,C3
+Rural,NY,East,"1,08,11,785",Metal Clad,Retail,N,N,A6
+Urban,NY,East,"30,000",Fire Resist,Service,Y,Y,C1
+Urban,NY,East,"1,57,00,000",Frame,Office Bldg,Y,Y,C7
+Urban,WI,Midwest,"55,03,255",Masonry,Office Bldg,N,N,D3
+Urban,WI,Midwest,"50,15,000",Masonry,Manufacturing,N,N,D3
+Urban,MI,Central,"6,01,000",Frame,Other,N,N,B1
+Urban,NJ,East,"15,63,500",Frame,Retail,Y,Y,C7
+Rural,NY,East,"1,09,79,275",Frame,Farming,N,N,A2
+Urban,NY,East,"61,98,000",Frame,Office Bldg,Y,Y,C7
+Urban,WI,Midwest,"5,04,000",Frame,Apartment,N,N,D2
+Urban,WI,Midwest,"22,11,300",Masonry,Service,Y,Y,D5
+Rural,VT,Northeast,"60,00,902",Frame,Farming,Y,Y,A9
+Urban,NY,East,"6,60,473",Frame,Apartment,N,N,C4
+Urban,NJ,East,"49,78,985",Frame,Farming,Y,N,C3
+Urban,NY,East,"52,13,100",Frame,Apartment,Y,Y,C6
+Rural,NY,East,"23,36,132",Metal Clad,Farming,N,N,A6
+Urban,NJ,East,"62,53,000",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"15,00,000",Fire Resist,Hospitality,Y,Y,C1
+Rural,WI,Midwest,"29,84,500",Metal Clad,Farming,N,N,A8
+Urban,WI,Midwest,"25,02,600",Masonry,Apartment,Y,Y,D5
+Urban,NY,East,"81,15,500",Fire Resist,Apartment,Y,Y,C1
+Rural,NY,East,"21,62,291",Frame,Farming,N,N,A2
+Rural,WI,Midwest,"40,64,995",Masonry,Farming,N,N,A7
+Rural,NY,East,"32,95,800",Frame,Farming,N,N,A2
+Urban,NY,East,"97,10,700",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"23,50,000",Masonry,Apartment,Y,Y,C1
+Urban,NJ,East,"18,07,440",Frame,Organization,Y,Y,C7
+Urban,WI,Midwest,"31,75,400",Masonry,Office Bldg,Y,Y,D5
+Urban,WI,Midwest,"37,41,300",Fire Resist,Apartment,Y,Y,D1
+Rural,NY,East,"28,06,200",Frame,Farming,N,N,A2
+Urban,VT,Northeast,"61,69,400",Frame,Apartment,Y,Y,E2
+Urban,NY,East,"23,25,718",Metal Clad,Manufacturing,N,N,C1
+Urban,NY,East,"2,45,000",Frame,Service,N,N,C4
+Urban,WI,Midwest,"42,01,800",Frame,Farming,N,N,D2
+Rural,WI,Midwest,"28,20,265",Frame,Farming,N,N,A6
+Urban,NY,East,"1,22,20,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"11,44,300",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"45,30,000",Frame,Apartment,Y,Y,C6
+Urban,ME,Northeast,"5,52,300",Frame,Apartment,N,N,E1
+Urban,NY,East,"20,00,300",Masonry,Office Bldg,N,N,C1
+Urban,NJ,East,"39,90,000",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"58,50,000",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"62,50,000",Frame,Apartment,Y,Y,C6
+Urban,NH,Northeast,"13,27,600",Frame,Apartment,N,N,E1
+Urban,NY,East,"15,10,000",Masonry,Hospitality,N,N,C1
+Urban,NY,East,"38,71,000",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"5,13,300",Frame,Apartment,N,N,C4
+Rural,NY,East,"29,43,800",Frame,Farming,N,N,A2
+Urban,WI,Midwest,"39,52,500",Masonry,Manufacturing,Y,Y,D5
+Urban,NY,East,"89,23,000",Frame,Apartment,Y,Y,C6
+Urban,WI,Midwest,"29,00,000",Fire Resist,Apartment,Y,Y,D1
+Urban,NY,East,"64,50,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"44,79,400",Frame,Apartment,N,N,C4
+Urban,WI,Midwest,"20,30,600",Frame,Farming,N,N,D2
+Rural,NY,East,"20,13,357",Frame,Farming,N,N,A2
+Rural,NY,East,"40,17,155",Frame,Farming,N,N,A2
+Urban,NY,East,"1,16,50,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"92,50,000",Frame,Apartment,Y,Y,C6
+Rural,VT,Northeast,"21,98,800",Frame,Farming,N,N,A9
+Rural,NY,East,"35,53,009",Frame,Farming,N,N,A2
+Urban,WI,Midwest,"10,63,100",Masonry,Apartment,Y,Y,D5
+Urban,NY,East,"28,54,500",Masonry,Apartment,Y,Y,C1
+Urban,NJ,East,"33,56,200",Masonry,Construction,Y,Y,C1
+Rural,NY,East,"18,82,600",Frame,Farming,N,N,A2
+Rural,NY,East,"23,93,232",Frame,Farming,N,N,A2
+Urban,NY,East,"1,46,78,200",Frame,Office Bldg,Y,Y,C7
+Rural,NY,East,"50,17,360",Frame,Farming,N,N,A2
+Urban,NY,East,"26,25,000",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"2,85,700",Frame,Office Bldg,N,N,C4
+Urban,NY,East,"2,75,000",Fire Resist,Retail,Y,N,C1
+Urban,NY,East,"1,03,96,250",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"2,72,08,210",Fire Resist,Apartment,Y,Y,C1
+Urban,WI,Midwest,"17,40,000",Masonry,Office Bldg,N,N,D3
+Rural,WI,Midwest,"24,64,755",Metal Clad,Farming,N,N,A8
+Urban,NY,East,"5,35,000",Frame,Office Bldg,N,N,C4
+Urban,NJ,East,"28,37,500",Frame,Manufacturing,Y,Y,C7
+Urban,WI,Midwest,"14,00,000",Masonry,Organization,N,N,D3
+Urban,WI,Midwest,"17,11,268",Frame,Manufacturing,N,N,D2
+Urban,NY,East,"17,80,000",Masonry,Hospitality,Y,Y,C1
+Urban,NY,East,"1,07,46,600",Frame,Apartment,Y,Y,C6
+Urban,NY,East,"6,45,000",Fire Resist,Retail,N,N,C1
+Rural,NY,East,"37,24,339",Frame,Farming,N,N,A2
+Urban,NY,East,"1,24,93,000",Frame,Apartment,Y,Y,C6
+Urban,WI,Midwest,"5,39,040",Frame,Retail,N,N,D2
+Urban,NY,East,"21,59,000",Frame,Retail,N,N,C4
+Urban,NJ,East,"37,50,000",Frame,Apartment,Y,Y,C6
+Rural,NY,East,"1,00,000",Metal Clad,Farming,N,N,A6
+Rural,NY,East,"11,21,600",Metal Clad,Farming,N,N,A6
+Urban,NY,East,"90,00,000",Fire Resist,Apartment,Y,Y,C1
+Urban,NY,East,"2,92,200",Frame,Apartment,Y,Y,C6
+Urban,NH,Northeast,"3,45,000",Metal Clad,Retail,N,N,E1
+Urban,NY,East,"1,15,75,700",Frame,Apartment,Y,Y,C6
+Urban,OH,Central,"6,08,500",Frame,Apartment,N,N,B1
+Urban,NJ,East,"51,14,500",Frame,Office Bldg,Y,Y,C7
+Urban,WI,Midwest,"48,22,450",Masonry,Office Bldg,Y,Y,D5
+Urban,NY,East,"11,25,600",Masonry,Apartment,N,N,C1
+Urban,NY,East,"93,77,600",Frame,Apartment,Y,Y,C6
+Rural,NY,East,"39,20,500",Frame,Farming,N,N,A2
+Urban,NH,Northeast,"6,26,000",Masonry,Office Bldg,N,N,E1
+Rural,WI,Midwest,"41,32,600",Frame,Farming,N,N,A6
+Rural,NY,East,"62,35,057",Frame,Farming,N,N,A2
+Rural,VT,Northeast,"19,60,000",Frame,Farming,N,N,A9
+Rural,NY,East,"25,00,000",Metal Clad,Farming,N,N,A6
+Urban,IL,Midwest,"38,83,300",Metal Clad,Farming,N,N,D1
+Urban,NY,East,"14,25,000",Masonry,Apartment,N,N,C1
+Urban,NY,East,"15,45,100",Frame,Office Bldg,Y,Y,C7
+Urban,WI,Midwest,"16,65,100",Frame,Apartment,N,N,D2
+Urban,NY,East,"82,45,000",Frame,Apartment,Y,Y,C6
+Urban,NJ,East,"24,32,600",Frame,Retail,Y,Y,C7
+Urban,NY,East,"14,80,000",Fire Resist,Hospitality,Y,Y,C1
+Urban,NY,East,"90,50,000",Frame,Apartment,Y,Y,C6
+Rural,NY,East,"14,80,755",Frame,Farming,N,N,A2
+Urban,VT,Northeast,"41,01,750",Fire Resist,Office Bldg,Y,Y,E2
+Urban,OH,Central,"17,39,100",Frame,Apartment,N,N,B1
+Urban,NY,East,"22,50,000",Frame,Office Bldg,Y,Y,C7
+Urban,NY,East,"1,64,82,200",Frame,Office Bldg,Y,Y,C7
+Urban,WI,Midwest,"17,76,800",Frame,Farming,N,N,D2

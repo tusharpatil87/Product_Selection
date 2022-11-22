@@ -1,0 +1,501 @@
+Location,Region,Construction,Earthquake,Flood,Product
+Urban,East,Frame,N,N,Standard
+Urban,East,Fire Resist,Y,Y,Basic
+Rural,Midwest,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Masonry,N,N,Premium
+Urban,Midwest,Frame,Y,Y,Standard
+Urban,Midwest,Masonry,N,N,Premium
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,East,Masonry,Y,Y,Premium
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,Y,Standard
+Rural,Midwest,Frame,N,N,Basic
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,Northeast,Fire Resist,N,N,Basic
+Urban,Central,Masonry,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,N,N,Standard
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,East,Metal Clad,Y,Y,Premium
+Urban,East,Frame,N,N,Standard
+Urban,Northeast,Frame,Y,Y,Basic
+Urban,Midwest,Frame,Y,Y,Standard
+Urban,East,Masonry,Y,Y,Premium
+Rural,Midwest,Frame,N,N,Standard
+Urban,Midwest,Frame,N,N,Standard
+Urban,Central,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Fire Resist,Y,Y,Basic
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,N,Y,Standard
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Masonry,N,N,Premium
+Urban,Midwest,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,Central,Metal Clad,N,N,Premium
+Urban,Central,Frame,N,N,Basic
+Urban,East,Frame,Y,N,Standard
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,N,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Masonry,N,N,Premium
+Urban,East,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Rural,East,Metal Clad,N,N,Premium
+Rural,East,Frame,N,N,Standard
+Rural,Midwest,Masonry,N,N,Premium
+Urban,East,Frame,N,N,Standard
+Rural,Northeast,Frame,N,N,Basic
+Urban,Midwest,Fire Resist,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,Northeast,Metal Clad,N,N,Premium
+Urban,Midwest,Masonry,N,N,Premium
+Urban,East,Metal Clad,Y,Y,Premium
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Metal Clad,N,N,Premium
+Urban,East,Frame,Y,N,Standard
+Urban,East,Frame,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,Central,Frame,Y,Y,Basic
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Masonry,N,N,Premium
+Urban,East,Frame,N,N,Standard
+Rural,Midwest,Frame,N,N,Basic
+Urban,East,Frame,N,N,Standard
+Urban,East,Masonry,Y,Y,Premium
+Rural,Midwest,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,N,Standard
+Urban,East,Metal Clad,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Metal Clad,N,N,Premium
+Urban,Midwest,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,Northeast,Frame,Y,Y,Basic
+Urban,Northeast,Frame,Y,Y,Basic
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,N,N,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,Northeast,Frame,N,N,Basic
+Urban,Northeast,Frame,Y,Y,Basic
+Urban,East,Frame,Y,Y,Standard
+Rural,Midwest,Masonry,N,N,Premium
+Urban,East,Masonry,N,N,Premium
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,N,Standard
+Rural,Midwest,Frame,N,N,Basic
+Urban,Midwest,Masonry,N,N,Premium
+Urban,Northeast,Frame,N,Y,Basic
+Urban,East,Fire Resist,Y,Y,Basic
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,N,Y,Standard
+Urban,East,Frame,N,Y,Standard
+Urban,East,Frame,N,N,Standard
+Urban,Northeast,Metal Clad,Y,Y,Premium
+Rural,Midwest,Masonry,N,N,Premium
+Urban,East,Frame,N,N,Standard
+Urban,East,Frame,N,N,Standard
+Urban,East,Frame,Y,N,Standard
+Rural,Midwest,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,Midwest,Masonry,N,N,Premium
+Urban,Central,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,Central,Frame,N,N,Basic
+Urban,Midwest,Fire Resist,Y,Y,Basic
+Rural,East,Frame,N,N,Basic
+Urban,Midwest,Frame,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Masonry,N,N,Premium
+Rural,East,Frame,N,N,Basic
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,N,Standard
+Urban,East,Frame,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,Midwest,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Fire Resist,Y,Y,Basic
+Rural,Midwest,Masonry,N,N,Premium
+Urban,Midwest,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Rural,Midwest,Frame,N,N,Basic
+Rural,Midwest,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Masonry,N,N,Premium
+Urban,East,Masonry,Y,Y,Premium
+Urban,Midwest,Masonry,Y,Y,Premium
+Rural,East,Frame,N,N,Basic
+Urban,Northeast,Frame,N,N,Basic
+Urban,Midwest,Frame,Y,Y,Standard
+Urban,East,Masonry,Y,Y,Premium
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Metal Clad,Y,Y,Premium
+Urban,East,Metal Clad,Y,Y,Premium
+Rural,East,Frame,N,N,Basic
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,Central,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,N,N,Standard
+Urban,Northeast,Frame,N,N,Basic
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,Central,Frame,N,N,Basic
+Rural,Northeast,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,East,Fire Resist,N,N,Basic
+Urban,Central,Frame,N,N,Basic
+Urban,East,Frame,N,N,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Masonry,N,Y,Premium
+Urban,East,Frame,Y,Y,Standard
+Rural,Central,Frame,Y,Y,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Masonry,N,Y,Premium
+Urban,East,Frame,N,Y,Standard
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,Midwest,Masonry,Y,Y,Premium
+Rural,East,Frame,N,N,Basic
+Rural,East,Frame,N,N,Basic
+Urban,Midwest,Masonry,N,N,Premium
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,Northeast,Frame,Y,Y,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Metal Clad,Y,Y,Premium
+Urban,East,Frame,Y,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,N,Y,Standard
+Urban,Northeast,Frame,Y,Y,Basic
+Urban,East,Frame,Y,Y,Standard
+Rural,Midwest,Masonry,N,N,Premium
+Urban,Central,Masonry,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Masonry,N,Y,Premium
+Urban,East,Frame,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Masonry,Y,Y,Premium
+Urban,Midwest,Masonry,Y,N,Premium
+Rural,Midwest,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Masonry,N,N,Premium
+Urban,East,Frame,Y,N,Standard
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,East,Frame,N,N,Standard
+Urban,Central,Frame,N,N,Basic
+Urban,Midwest,Frame,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,N,Standard
+Rural,Northeast,Metal Clad,N,N,Premium
+Urban,East,Frame,N,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,Northeast,Masonry,N,N,Standard
+Urban,East,Frame,N,N,Standard
+Rural,Midwest,Frame,Y,N,Basic
+Urban,Midwest,Masonry,Y,Y,Premium
+Rural,East,Frame,N,N,Standard
+Urban,Midwest,Frame,N,N,Standard
+Urban,East,Masonry,Y,Y,Premium
+Rural,Midwest,Frame,N,N,Basic
+Urban,East,Frame,N,N,Standard
+Urban,Midwest,Masonry,N,N,Premium
+Urban,East,Masonry,Y,Y,Premium
+Urban,Midwest,Fire Resist,Y,Y,Basic
+Urban,Northeast,Frame,Y,Y,Basic
+Rural,Midwest,Frame,N,N,Basic
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,N,N,Standard
+Rural,East,Frame,N,N,Basic
+Urban,Midwest,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,Northeast,Masonry,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Masonry,N,N,Premium
+Urban,Midwest,Masonry,N,N,Premium
+Urban,Midwest,Fire Resist,N,Y,Basic
+Urban,Midwest,Masonry,N,N,Premium
+Urban,East,Frame,Y,N,Standard
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,Midwest,Frame,N,N,Standard
+Rural,Northeast,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Rural,Midwest,Frame,N,N,Basic
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,Midwest,Frame,N,N,Standard
+Urban,East,Metal Clad,N,N,Premium
+Rural,East,Fire Resist,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,Northeast,Masonry,N,N,Standard
+Urban,East,Frame,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,N,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Frame,N,N,Standard
+Urban,East,Frame,N,N,Standard
+Urban,Midwest,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Fire Resist,Y,Y,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Frame,Y,Y,Standard
+Urban,Northeast,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Metal Clad,Y,Y,Premium
+Urban,Central,Masonry,N,N,Standard
+Urban,East,Masonry,N,N,Premium
+Urban,Midwest,Frame,N,N,Standard
+Urban,East,Masonry,Y,Y,Premium
+Urban,Midwest,Frame,N,N,Standard
+Urban,East,Frame,Y,N,Standard
+Urban,Northeast,Frame,N,N,Basic
+Urban,East,Frame,N,N,Standard
+Urban,Northeast,Frame,N,N,Basic
+Urban,East,Frame,N,N,Standard
+Rural,East,Metal Clad,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,N,N,Standard
+Urban,Midwest,Masonry,N,N,Premium
+Urban,Midwest,Masonry,N,N,Premium
+Rural,Midwest,Frame,N,N,Basic
+Rural,Midwest,Frame,N,N,Basic
+Urban,East,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,East,Masonry,N,Y,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Metal Clad,Y,Y,Premium
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Frame,N,N,Standard
+Urban,Midwest,Masonry,N,N,Premium
+Urban,Midwest,Fire Resist,Y,Y,Basic
+Rural,East,Metal Clad,N,N,Premium
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,N,N,Standard
+Urban,East,Frame,Y,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Frame,N,N,Standard
+Urban,East,Masonry,Y,Y,Premium
+Urban,Central,Masonry,N,N,Standard
+Rural,Midwest,Frame,N,N,Basic
+Rural,East,Metal Clad,N,N,Premium
+Urban,East,Frame,Y,N,Standard
+Urban,Midwest,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Fire Resist,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,Central,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Metal Clad,N,N,Premium
+Urban,Northeast,Masonry,N,N,Standard
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,Midwest,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,N,N,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,East,Frame,N,N,Standard
+Urban,Midwest,Frame,N,N,Standard
+Urban,Central,Frame,N,N,Basic
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,Central,Frame,N,N,Basic
+Rural,East,Frame,Y,N,Basic
+Urban,East,Frame,N,Y,Standard
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,East,Metal Clad,Y,Y,Premium
+Urban,East,Frame,Y,N,Standard
+Rural,East,Metal Clad,N,N,Premium
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Masonry,N,N,Premium
+Urban,Midwest,Masonry,N,N,Premium
+Urban,Central,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Frame,N,N,Standard
+Urban,Midwest,Masonry,Y,Y,Premium
+Rural,Northeast,Frame,Y,Y,Basic
+Urban,East,Frame,N,N,Standard
+Urban,East,Frame,Y,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Metal Clad,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Fire Resist,Y,Y,Basic
+Rural,Midwest,Metal Clad,N,N,Premium
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,East,Fire Resist,Y,Y,Basic
+Rural,East,Frame,N,N,Basic
+Rural,Midwest,Masonry,N,N,Premium
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,Midwest,Fire Resist,Y,Y,Basic
+Rural,East,Frame,N,N,Basic
+Urban,Northeast,Frame,Y,Y,Basic
+Urban,East,Metal Clad,N,N,Premium
+Urban,East,Frame,N,N,Standard
+Urban,Midwest,Frame,N,N,Standard
+Rural,Midwest,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,Northeast,Frame,N,N,Basic
+Urban,East,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,Northeast,Frame,N,N,Basic
+Urban,East,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,N,N,Standard
+Rural,East,Frame,N,N,Basic
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Fire Resist,Y,Y,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,N,N,Standard
+Urban,Midwest,Frame,N,N,Standard
+Rural,East,Frame,N,N,Basic
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Rural,Northeast,Frame,N,N,Basic
+Rural,East,Frame,N,N,Basic
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Masonry,Y,Y,Premium
+Rural,East,Frame,N,N,Basic
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,N,N,Standard
+Urban,East,Fire Resist,Y,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,Midwest,Masonry,N,N,Premium
+Rural,Midwest,Metal Clad,N,N,Premium
+Urban,East,Frame,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Masonry,N,N,Premium
+Urban,Midwest,Frame,N,N,Standard
+Urban,East,Masonry,Y,Y,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Fire Resist,N,N,Basic
+Rural,East,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Frame,N,N,Standard
+Urban,East,Frame,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Metal Clad,N,N,Premium
+Rural,East,Metal Clad,N,N,Premium
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,Northeast,Metal Clad,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,Central,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Masonry,Y,Y,Premium
+Urban,East,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,Northeast,Masonry,N,N,Standard
+Rural,Midwest,Frame,N,N,Basic
+Rural,East,Frame,N,N,Basic
+Rural,Northeast,Frame,N,N,Basic
+Rural,East,Metal Clad,N,N,Premium
+Urban,Midwest,Metal Clad,N,N,Premium
+Urban,East,Masonry,N,N,Premium
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Frame,N,N,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Fire Resist,Y,Y,Basic
+Urban,East,Frame,Y,Y,Standard
+Rural,East,Frame,N,N,Basic
+Urban,Northeast,Fire Resist,Y,Y,Basic
+Urban,Central,Frame,N,N,Basic
+Urban,East,Frame,Y,Y,Standard
+Urban,East,Frame,Y,Y,Standard
+Urban,Midwest,Frame,N,N,Standard
